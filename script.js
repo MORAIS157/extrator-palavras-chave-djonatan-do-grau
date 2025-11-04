@@ -45,6 +45,9 @@ function contaFrequencias(palavras) {
 
     return palavras;
 
+}
 
+function tiraPalavrasRuins(palavras){
+const PALAVRAS_RUINS = new set(["para", "nós", "das", "como", "que" ];)
 
 }
