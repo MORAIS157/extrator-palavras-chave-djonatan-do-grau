@@ -1,5 +1,4 @@
-import { PALAVRAS_RUINS } from "./palavrasruins";
-
+import { PALAVRAS_RUINS } from "./palavrasruins.js";
 
 const botaoMostraPalavras = document.querySelector("#botao-palavrachave");
 
